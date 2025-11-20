@@ -4,17 +4,17 @@
     "url": "https://github.com/dungdinhmanh/KivotOS-repo/",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "kivot-os-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 510,
-    "timeWeek": 500,
-    "timeMonth": 513,
-    "timeYear": 498,
+    "time": 531,
+    "timeDay": 1478,
+    "timeWeek": 743,
+    "timeMonth": 574,
+    "timeYear": 531,
     "dailyMinutesDown": {}
   }
 ]
